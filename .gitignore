@@ -1,0 +1,5 @@
+.DS_Store
+
+./torch-practice/assets/hymenoptera_data/*
+./torch-practice/datasets/*
+./torch-practice/logs/*
