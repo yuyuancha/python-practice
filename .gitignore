@@ -6,3 +6,7 @@
 
 ./image_processing/artale/assets/sprites/*
 ./image_processing/artale/assets/combined_image.png
+./image_processing/artale/assets/screenshot/*
+./image_processing/artale/assets/videos/*
+./image_processing/artale/assets/slow_motion/*
+./image_processing/artale/logic/__pycache__
