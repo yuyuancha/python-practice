@@ -3,3 +3,6 @@
 ./machine_learning/pytorch/assets/hymenoptera_data/*
 ./machine_learning/pytorch/datasets/*
 ./machine_learning/pytorch/logs/*
+
+./image_processing/artale/assets/sprites/*
+./image_processing/artale/assets/combined_image.png
